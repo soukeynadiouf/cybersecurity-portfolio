@@ -1,6 +1,8 @@
 # cybersecurity-portfolio
 A portfolio for showcasing my progress and achievements in cybersecurity.
 
+#About Me
+
 **Name:** [Soukeyna Diouf]
 
 **Hometown:** [655 Lakehaven Lane, Loganville GA, 30052]
